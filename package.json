@@ -1,0 +1,32 @@
+{
+  "name": "rh-impact-crepos",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Automate Creation of Repositories For a Particular GitHub Organization",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@octokit/core": "^4.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: No Test specified\" && exit 1",
+    "forge-repos": "node index.js"
+  },
+  "keywords": [
+    "RH-Impact",
+    "Red Hat",
+    "Red Hat Impact",
+    "PNT",
+    "PNT Hackathon",
+    "2022",
+    "GH",
+    "GitHub"
+  ],
+  "author": {
+    "name": "Adithya Krishna",
+    "email": "adikrish@redhat.com",
+    "url": "https://twitter.com/adii_kris"
+  },
+  "repository": "https://github.com/adithyaakrishna/rh-impact-create-repos",
+  "license": "MIT"
+}
