@@ -3,7 +3,7 @@ import { newReposList } from './RepoConstants.js';
 import { requestSleep } from './Sleep.js';
 
 // Organization name
-export const organizationName = 'rh-impactasdasd';
+export const organizationName = 'rh-impact';
 
 // Repository name
 export const repositoryName = 'pnt-hackathon-2022';
